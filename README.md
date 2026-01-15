@@ -1,5 +1,8 @@
 # 
+*Your tasks and notes, automatically put where they belong.*
 *The GenAI Note Taking Companion*
+
+Influence: https://github.com/fynnfluegge/rocketnotes
 
 # Resources
 https://python.langchain.com/docs/tutorials/llm_chain/
